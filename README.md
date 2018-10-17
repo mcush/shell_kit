@@ -1,5 +1,6 @@
 ![](img/contents.jpg)
 ![](img/software.jpg)
+![](img/load_menu.png)
 
 Shell Kit
 =========
